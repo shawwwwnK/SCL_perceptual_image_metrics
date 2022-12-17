@@ -25,7 +25,7 @@
     
 - **Reproduce experiments**
 
-    In the experiments, we used TID2013, which can be downloaded at https://www.ponomarenko.info/tid2013.htm
+    In the experiments `experiments.ipynb`, we used TID2013, which can be downloaded at https://www.ponomarenko.info/tid2013.htm
     
     The images from JPEG, BPG, HiFiC compressors are from the demo webpage of HiFiC https://hific.github.io/
     
